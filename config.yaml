@@ -62,7 +62,6 @@ mysql:
   log-zap: false
 # zap logger configuration
 zap:
-  level: 'debug'
   format: 'console'
   prefix: '[iptv-spider-sh]'
   director: 'log'
